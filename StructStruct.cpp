@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Array.h"
+using namespace std;
 
 struct DeatailAlamat{
     string desa;
@@ -25,4 +25,9 @@ int main()
     cout << "Umur:";
     cin >> mhs.umur;
     cout << endl;
+    //Menampilkan isi objek
+    cout << "Nama: " << mhs.nama << endl;
+    cout << "Desa: " << mhs.alamat.desa << endl;
+    cout << "Kota: " << mhs.alamat.kota << endl;
+    cout << "Umur: " << mhs.umur << endl;
 }
