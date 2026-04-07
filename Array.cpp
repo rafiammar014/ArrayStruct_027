@@ -28,4 +28,13 @@ cin >> dataku[3];
 cout << "Data Index ke - 4 : ";
 cin >> dataku[4];
 
+//Tampilkan array datamu satu per satu 
+cout << "Data ke - 1 : " << dataku[0] << endl;
+cout << "Data ke - 2 : " << dataku[1] << endl;
+cout << "Data ke - 3 : " << dataku[2] << endl;
+cout << "Data ke - 4 : " << dataku[3] << endl;
+cout << "Data ke - 5 : " << dataku[4] << endl;
+
+cout << endl;
+
 }
