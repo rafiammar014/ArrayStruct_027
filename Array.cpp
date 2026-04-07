@@ -15,4 +15,17 @@ x = dataku[2]*3;
 //cara menulis ata mengisi array
 dataku[2] = 600;
 cout << "Data ke - 3 yang baru : " << dataku[2] << endl;
+
+//mengisi array datamu satu per satu
+cout << "Data Index ke - 0 : ";
+cin >> dataku[0];
+cout << "Data Index ke - 1 : "; 
+cin >> dataku[1];
+cout << "Data Index ke - 2 : ";
+cin >> dataku[2];
+cout << "Data Index ke - 3 : ";
+cin >> dataku[3];
+cout << "Data Index ke - 4 : ";
+cin >> dataku[4];
+
 }
