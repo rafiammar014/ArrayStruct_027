@@ -7,4 +7,9 @@ int angka[5] = {10, 20, 30, 40, 50};
 //deklarasi tanpa inisialisasi
 int datamu[5];
 int x;
+//cara membaca array dataku
+cout << "Data ke - 3 : " << dataku[2] << endl;
+
+//Operasi Matematika 
+x = dataku[3]
 }
