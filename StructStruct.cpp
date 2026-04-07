@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-struct DeatailAlamat{
+struct DetailAlamat{
     string desa;
     string kota;
 };
 struct orang{
     string nama;
-    DeatailAlamat alamat;
+    DetailAlamat alamat;
     int umur;
 };
 
